@@ -7,7 +7,6 @@
    
 I am <a href="https://www.linkedin.com/in/jannik-riegel/">Jannik Riegel</a>, a Frontend Developer specialized in React and its ecosystem, with solid experience in creating responsive and efficient web applications using TypeScript, Redux, Next.js, and Tailwind CSS. My experience also includes working with SQL databases, allowing me to understand and contribute to full-stack projects when needed. I handle key tools like Git, agile methodologies like Scrum, and development practices such as TDD and Clean Code. Recently, I've been focused on integrating AI APIs and cloud technologies like AWS and Docker into my projects to adapt to the innovations that are transforming the tech industry. I'm looking to join a dynamic team where I can contribute my frontend development experience and continue growing professionally through meaningful projects.
 
-**Coding with heart! 🫀💻**
 <br><br>
 
 ## About Me:
