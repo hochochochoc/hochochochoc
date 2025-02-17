@@ -163,7 +163,7 @@ An AI assistant that helps users analyze and correct their exercise technique at
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## LetraLingo App
 
@@ -231,7 +231,7 @@ The ongoing development of LetraLingo aims to enhance feature sets, improve the 
 
 ---
 
-<br><br><br>
+<br>
 
 ## 📊 Stats
 
@@ -252,7 +252,7 @@ The ongoing development of LetraLingo aims to enhance feature sets, improve the 
   
 </table>
 
-<br><br><br>
+<br>
 
 ## 📧 Feel free to contact me
 
