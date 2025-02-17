@@ -183,7 +183,6 @@ An interactive Spanish alphabet learning app with integrated AI teaching methods
 [![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
@@ -260,6 +259,6 @@ The ongoing development of LetraLingo aims to enhance feature sets, improve the 
 <a href="mailto:jannik.riegel@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square"  height="23" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/jannik-riegel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" height="23" alt="LinkedIn" /></a>  <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" height="23" alt="Discord" /></a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">📌 Explore My Pinned Projects Below!</h3>
