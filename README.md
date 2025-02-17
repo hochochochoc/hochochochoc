@@ -134,7 +134,7 @@ Allows users to create and follow custom routines, record their progress, and vi
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br>
+<br><br><br><br>
 
 ## AI Form Assistant
 
@@ -163,7 +163,7 @@ An AI assistant that helps users analyze and correct their exercise technique at
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br><br>
+<br><br>
 
 ## LetraLingo App
 
